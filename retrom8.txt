@@ -1,0 +1,1317 @@
+--// RETROM8: FD EDITION \\ --
+-- ayray says retrom8 is cringe
+local aww = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local Page1 = Instance.new("Frame")
+local Elysian = Instance.new("TextButton")
+local FurryRapist = Instance.new("TextButton")
+local TrollGUI = Instance.new("TextButton")
+local EvilPlaytime = Instance.new("TextButton")
+local LeashGUI = Instance.new("TextButton")
+local DickGun = Instance.new("TextButton")
+local AlbertsStuff = Instance.new("TextButton")
+local Earrape = Instance.new("TextButton")
+local FEAdmin = Instance.new("TextButton")
+local GasCanister = Instance.new("TextButton")
+local FNAFMap = Instance.new("TextButton")
+local RainingChickens = Instance.new("TextButton")
+local TextButton = Instance.new("TextButton")
+local Page2 = Instance.new("Frame")
+local Pee = Instance.new("TextButton")
+local DexExplorer = Instance.new("TextButton")
+local GKV3 = Instance.new("TextButton")
+local BirdWings = Instance.new("TextButton")
+local Illuminati = Instance.new("TextButton")
+local MatteoRetroCar = Instance.new("TextButton")
+local Keemstar = Instance.new("TextButton")
+local FP = Instance.new("TextButton")
+local Pizza = Instance.new("TextButton")
+local Jungle = Instance.new("TextButton")
+local PonisTool = Instance.new("TextButton")
+local Rocky = Instance.new("TextButton")
+local _1 = Instance.new("TextButton")
+local Page3 = Instance.new("Frame")
+local FEHaxx = Instance.new("TextButton")
+local VanGUI = Instance.new("TextButton")
+local NA = Instance.new("TextButton")
+local NA_2 = Instance.new("TextButton")
+local NA_3 = Instance.new("TextButton")
+local NA_4 = Instance.new("TextButton")
+local NA_5 = Instance.new("TextButton")
+local NA_6 = Instance.new("TextButton")
+local NA_7 = Instance.new("TextButton")
+local ClockworkArena = Instance.new("TextButton")
+local WTC = Instance.new("TextButton")
+local T0PK3K40 = Instance.new("TextButton")
+local credit = Instance.new("TextLabel")
+local title = Instance.new("TextLabel")
+local _2 = Instance.new("TextButton")
+local _3 = Instance.new("TextButton")
+local T = Instance.new("TextButton")
+local Themes = Instance.new("Frame")
+local Classic = Instance.new("TextButton")
+local NA_8 = Instance.new("TextButton")
+local NA_9 = Instance.new("TextButton")
+local NA_10 = Instance.new("TextButton")
+local NA_11 = Instance.new("TextButton")
+local NA_12 = Instance.new("TextButton")
+local NA_13 = Instance.new("TextButton")
+local NA_14 = Instance.new("TextButton")
+local NA_15 = Instance.new("TextButton")
+local UTG = Instance.new("TextButton")
+local Dark = Instance.new("TextButton")
+local NA_16 = Instance.new("TextButton")
+local motd = Instance.new("TextLabel")
+
+--Properties:
+
+aww.Name = "aww"
+aww.Parent = game.CoreGui
+
+Main.Name = "Main"
+Main.Parent = aww
+Main.Active = true
+Main.BackgroundColor3 = Color3.fromRGB(170, 0, 255)
+Main.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Main.BorderSizePixel = 0
+Main.Position = UDim2.new(0.104605272, 0, 0.247951761, 0)
+Main.Size = UDim2.new(0, 479, 0, 298)
+
+Page1.Name = "Page1"
+Page1.Parent = Main
+Page1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Page1.BackgroundTransparency = 1.000
+Page1.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Page1.Position = UDim2.new(0, 0, 0.110738255, 0)
+Page1.Size = UDim2.new(0, 478, 0, 264)
+
+Elysian.Name = "Elysian"
+Elysian.Parent = Page1
+Elysian.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Elysian.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Elysian.BorderSizePixel = 0
+Elysian.Position = UDim2.new(0.031380754, 0, 0.344696999, 0)
+Elysian.Size = UDim2.new(0, 99, 0, 47)
+Elysian.Font = Enum.Font.ArialBold
+Elysian.Text = "Elysian"
+Elysian.TextColor3 = Color3.fromRGB(255, 255, 255)
+Elysian.TextSize = 14.000
+Elysian.TextWrapped = true
+
+FurryRapist.Name = "Furry Rapist"
+FurryRapist.Parent = Page1
+FurryRapist.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+FurryRapist.BorderColor3 = Color3.fromRGB(27, 42, 53)
+FurryRapist.BorderSizePixel = 0
+FurryRapist.Position = UDim2.new(0.031380754, 0, 0.583333313, 0)
+FurryRapist.Size = UDim2.new(0, 99, 0, 47)
+FurryRapist.Font = Enum.Font.ArialBold
+FurryRapist.Text = "Furry Rapist"
+FurryRapist.TextColor3 = Color3.fromRGB(255, 255, 255)
+FurryRapist.TextSize = 14.000
+FurryRapist.TextWrapped = true
+
+TrollGUI.Name = "Troll GUI"
+TrollGUI.Parent = Page1
+TrollGUI.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TrollGUI.BorderColor3 = Color3.fromRGB(27, 42, 53)
+TrollGUI.BorderSizePixel = 0
+TrollGUI.Position = UDim2.new(0.274058551, 0, 0.583333313, 0)
+TrollGUI.Size = UDim2.new(0, 99, 0, 47)
+TrollGUI.Font = Enum.Font.ArialBold
+TrollGUI.Text = "Troll GUI"
+TrollGUI.TextColor3 = Color3.fromRGB(255, 255, 255)
+TrollGUI.TextSize = 14.000
+TrollGUI.TextWrapped = true
+
+EvilPlaytime.Name = "Evil Playtime"
+EvilPlaytime.Parent = Page1
+EvilPlaytime.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+EvilPlaytime.BorderColor3 = Color3.fromRGB(27, 42, 53)
+EvilPlaytime.BorderSizePixel = 0
+EvilPlaytime.Position = UDim2.new(0.518828452, 0, 0.583333313, 0)
+EvilPlaytime.Size = UDim2.new(0, 99, 0, 47)
+EvilPlaytime.Font = Enum.Font.ArialBold
+EvilPlaytime.Text = "Evil Playtime"
+EvilPlaytime.TextColor3 = Color3.fromRGB(255, 255, 255)
+EvilPlaytime.TextSize = 14.000
+EvilPlaytime.TextWrapped = true
+
+LeashGUI.Name = "Leash GUI"
+LeashGUI.Parent = Page1
+LeashGUI.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+LeashGUI.BorderColor3 = Color3.fromRGB(27, 42, 53)
+LeashGUI.BorderSizePixel = 0
+LeashGUI.Position = UDim2.new(0.761506259, 0, 0.583333313, 0)
+LeashGUI.Size = UDim2.new(0, 99, 0, 47)
+LeashGUI.Font = Enum.Font.ArialBold
+LeashGUI.Text = "Leash GUI"
+LeashGUI.TextColor3 = Color3.fromRGB(255, 255, 255)
+LeashGUI.TextSize = 14.000
+LeashGUI.TextWrapped = true
+
+DickGun.Name = "Dick Gun"
+DickGun.Parent = Page1
+DickGun.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+DickGun.BorderColor3 = Color3.fromRGB(27, 42, 53)
+DickGun.BorderSizePixel = 0
+DickGun.Position = UDim2.new(0.274058551, 0, 0.344696939, 0)
+DickGun.Size = UDim2.new(0, 99, 0, 47)
+DickGun.Font = Enum.Font.ArialBold
+DickGun.Text = "Dick Gun"
+DickGun.TextColor3 = Color3.fromRGB(255, 255, 255)
+DickGun.TextSize = 14.000
+DickGun.TextWrapped = true
+
+AlbertsStuff.Name = "AlbertsStuff"
+AlbertsStuff.Parent = Page1
+AlbertsStuff.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+AlbertsStuff.BorderColor3 = Color3.fromRGB(27, 42, 53)
+AlbertsStuff.BorderSizePixel = 0
+AlbertsStuff.Position = UDim2.new(0.518828452, 0, 0.344696939, 0)
+AlbertsStuff.Size = UDim2.new(0, 99, 0, 47)
+AlbertsStuff.Font = Enum.Font.ArialBold
+AlbertsStuff.Text = "AlbertsStuff"
+AlbertsStuff.TextColor3 = Color3.fromRGB(255, 255, 255)
+AlbertsStuff.TextSize = 14.000
+AlbertsStuff.TextWrapped = true
+
+Earrape.Name = "Earrape"
+Earrape.Parent = Page1
+Earrape.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Earrape.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Earrape.BorderSizePixel = 0
+Earrape.Position = UDim2.new(0.761506259, 0, 0.344696939, 0)
+Earrape.Size = UDim2.new(0, 99, 0, 47)
+Earrape.Font = Enum.Font.ArialBold
+Earrape.Text = "Earrape GUI"
+Earrape.TextColor3 = Color3.fromRGB(255, 255, 255)
+Earrape.TextSize = 14.000
+Earrape.TextWrapped = true
+
+FEAdmin.Name = "FE Admin"
+FEAdmin.Parent = Page1
+FEAdmin.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+FEAdmin.BorderColor3 = Color3.fromRGB(27, 42, 53)
+FEAdmin.BorderSizePixel = 0
+FEAdmin.Position = UDim2.new(0.274058551, 0, 0.113636345, 0)
+FEAdmin.Size = UDim2.new(0, 99, 0, 47)
+FEAdmin.Font = Enum.Font.ArialBold
+FEAdmin.Text = "FE Admin"
+FEAdmin.TextColor3 = Color3.fromRGB(255, 255, 255)
+FEAdmin.TextSize = 14.000
+FEAdmin.TextWrapped = true
+
+GasCanister.Name = "Gas Canister"
+GasCanister.Parent = Page1
+GasCanister.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+GasCanister.BorderColor3 = Color3.fromRGB(27, 42, 53)
+GasCanister.BorderSizePixel = 0
+GasCanister.Position = UDim2.new(0.518828452, 0, 0.113636345, 0)
+GasCanister.Size = UDim2.new(0, 99, 0, 47)
+GasCanister.Font = Enum.Font.ArialBold
+GasCanister.Text = "Gan Canister"
+GasCanister.TextColor3 = Color3.fromRGB(255, 255, 255)
+GasCanister.TextSize = 14.000
+GasCanister.TextWrapped = true
+
+FNAFMap.Name = "FNAF Map"
+FNAFMap.Parent = Page1
+FNAFMap.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+FNAFMap.BorderColor3 = Color3.fromRGB(27, 42, 53)
+FNAFMap.BorderSizePixel = 0
+FNAFMap.Position = UDim2.new(0.761506259, 0, 0.113636345, 0)
+FNAFMap.Size = UDim2.new(0, 99, 0, 47)
+FNAFMap.Font = Enum.Font.ArialBold
+FNAFMap.Text = "FNAF Map"
+FNAFMap.TextColor3 = Color3.fromRGB(255, 255, 255)
+FNAFMap.TextSize = 14.000
+FNAFMap.TextWrapped = true
+
+RainingChickens.Name = "Raining Chickens"
+RainingChickens.Parent = Page1
+RainingChickens.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+RainingChickens.BorderColor3 = Color3.fromRGB(27, 42, 53)
+RainingChickens.BorderSizePixel = 0
+RainingChickens.Position = UDim2.new(0.031380754, 0, 0.11363636, 0)
+RainingChickens.Size = UDim2.new(0, 99, 0, 47)
+RainingChickens.Font = Enum.Font.ArialBold
+RainingChickens.Text = "Raining Chickens (lag)"
+RainingChickens.TextColor3 = Color3.fromRGB(255, 255, 255)
+RainingChickens.TextSize = 14.000
+RainingChickens.TextWrapped = true
+
+TextButton.Parent = Main
+TextButton.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.BorderColor3 = Color3.fromRGB(56, 16, 255)
+TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(0.909803629, 0, 0.0226420462, 0)
+TextButton.Size = UDim2.new(0, 35, 0, 19)
+TextButton.Font = Enum.Font.ArialBold
+TextButton.Text = "X"
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.TextSize = 14.000
+
+Page2.Name = "Page2"
+Page2.Parent = Main
+Page2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Page2.BackgroundTransparency = 1.000
+Page2.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Page2.Position = UDim2.new(0, 0, 0.110738255, 0)
+Page2.Size = UDim2.new(0, 478, 0, 264)
+Page2.Visible = false
+
+Pee.Name = "Pee"
+Pee.Parent = Page2
+Pee.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Pee.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Pee.BorderSizePixel = 0
+Pee.Position = UDim2.new(0.031380754, 0, 0.11363636, 0)
+Pee.Size = UDim2.new(0, 99, 0, 47)
+Pee.Font = Enum.Font.ArialBold
+Pee.Text = "Pee"
+Pee.TextColor3 = Color3.fromRGB(255, 255, 255)
+Pee.TextSize = 14.000
+Pee.TextWrapped = true
+
+DexExplorer.Name = "Dex Explorer"
+DexExplorer.Parent = Page2
+DexExplorer.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+DexExplorer.BorderColor3 = Color3.fromRGB(27, 42, 53)
+DexExplorer.BorderSizePixel = 0
+DexExplorer.Position = UDim2.new(0.031380754, 0, 0.344696999, 0)
+DexExplorer.Size = UDim2.new(0, 99, 0, 47)
+DexExplorer.Font = Enum.Font.ArialBold
+DexExplorer.Text = "Dex Explorer"
+DexExplorer.TextColor3 = Color3.fromRGB(255, 255, 255)
+DexExplorer.TextSize = 14.000
+DexExplorer.TextWrapped = true
+
+GKV3.Name = "GKV3"
+GKV3.Parent = Page2
+GKV3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+GKV3.BorderColor3 = Color3.fromRGB(27, 42, 53)
+GKV3.BorderSizePixel = 0
+GKV3.Position = UDim2.new(0.031380754, 0, 0.583333313, 0)
+GKV3.Size = UDim2.new(0, 99, 0, 47)
+GKV3.Font = Enum.Font.ArialBold
+GKV3.Text = "Grab Knife V3"
+GKV3.TextColor3 = Color3.fromRGB(255, 255, 255)
+GKV3.TextSize = 14.000
+GKV3.TextWrapped = true
+
+BirdWings.Name = "BirdWings"
+BirdWings.Parent = Page2
+BirdWings.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+BirdWings.BorderColor3 = Color3.fromRGB(27, 42, 53)
+BirdWings.BorderSizePixel = 0
+BirdWings.Position = UDim2.new(0.274058551, 0, 0.583333313, 0)
+BirdWings.Size = UDim2.new(0, 99, 0, 47)
+BirdWings.Font = Enum.Font.ArialBold
+BirdWings.Text = "Bird Wings"
+BirdWings.TextColor3 = Color3.fromRGB(255, 255, 255)
+BirdWings.TextSize = 14.000
+BirdWings.TextWrapped = true
+
+Illuminati.Name = "Illuminati"
+Illuminati.Parent = Page2
+Illuminati.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Illuminati.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Illuminati.BorderSizePixel = 0
+Illuminati.Position = UDim2.new(0.518828452, 0, 0.583333313, 0)
+Illuminati.Size = UDim2.new(0, 99, 0, 47)
+Illuminati.Font = Enum.Font.ArialBold
+Illuminati.Text = "Illuminati"
+Illuminati.TextColor3 = Color3.fromRGB(255, 255, 255)
+Illuminati.TextSize = 14.000
+Illuminati.TextWrapped = true
+
+MatteoRetroCar.Name = "MatteoRetroCar"
+MatteoRetroCar.Parent = Page2
+MatteoRetroCar.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+MatteoRetroCar.BorderColor3 = Color3.fromRGB(27, 42, 53)
+MatteoRetroCar.BorderSizePixel = 0
+MatteoRetroCar.Position = UDim2.new(0.761506259, 0, 0.583333313, 0)
+MatteoRetroCar.Size = UDim2.new(0, 99, 0, 47)
+MatteoRetroCar.Font = Enum.Font.ArialBold
+MatteoRetroCar.Text = "Matteo Retro Car"
+MatteoRetroCar.TextColor3 = Color3.fromRGB(255, 255, 255)
+MatteoRetroCar.TextSize = 14.000
+MatteoRetroCar.TextWrapped = true
+
+Keemstar.Name = "Keemstar"
+Keemstar.Parent = Page2
+Keemstar.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Keemstar.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Keemstar.BorderSizePixel = 0
+Keemstar.Position = UDim2.new(0.274058551, 0, 0.344696939, 0)
+Keemstar.Size = UDim2.new(0, 99, 0, 47)
+Keemstar.Font = Enum.Font.ArialBold
+Keemstar.Text = "Keemstar All"
+Keemstar.TextColor3 = Color3.fromRGB(255, 255, 255)
+Keemstar.TextSize = 14.000
+Keemstar.TextWrapped = true
+
+FP.Name = "FP"
+FP.Parent = Page2
+FP.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+FP.BorderColor3 = Color3.fromRGB(27, 42, 53)
+FP.BorderSizePixel = 0
+FP.Position = UDim2.new(0.518828452, 0, 0.344696939, 0)
+FP.Size = UDim2.new(0, 99, 0, 47)
+FP.Font = Enum.Font.ArialBold
+FP.Text = "FilteringPartially"
+FP.TextColor3 = Color3.fromRGB(255, 255, 255)
+FP.TextSize = 14.000
+FP.TextWrapped = true
+
+Pizza.Name = "Pizza"
+Pizza.Parent = Page2
+Pizza.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Pizza.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Pizza.BorderSizePixel = 0
+Pizza.Position = UDim2.new(0.761506259, 0, 0.344696939, 0)
+Pizza.Size = UDim2.new(0, 99, 0, 47)
+Pizza.Font = Enum.Font.ArialBold
+Pizza.Text = "Pizza Place"
+Pizza.TextColor3 = Color3.fromRGB(255, 255, 255)
+Pizza.TextSize = 14.000
+Pizza.TextWrapped = true
+
+Jungle.Name = "Jungle"
+Jungle.Parent = Page2
+Jungle.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Jungle.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Jungle.BorderSizePixel = 0
+Jungle.Position = UDim2.new(0.274058551, 0, 0.113636345, 0)
+Jungle.Size = UDim2.new(0, 99, 0, 47)
+Jungle.Font = Enum.Font.ArialBold
+Jungle.Text = "Jungle"
+Jungle.TextColor3 = Color3.fromRGB(255, 255, 255)
+Jungle.TextSize = 14.000
+Jungle.TextWrapped = true
+
+PonisTool.Name = "Ponis Tool"
+PonisTool.Parent = Page2
+PonisTool.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+PonisTool.BorderColor3 = Color3.fromRGB(27, 42, 53)
+PonisTool.BorderSizePixel = 0
+PonisTool.Position = UDim2.new(0.518828452, 0, 0.113636345, 0)
+PonisTool.Size = UDim2.new(0, 99, 0, 47)
+PonisTool.Font = Enum.Font.ArialBold
+PonisTool.Text = "Ponis Tool"
+PonisTool.TextColor3 = Color3.fromRGB(255, 255, 255)
+PonisTool.TextSize = 14.000
+PonisTool.TextWrapped = true
+
+Rocky.Name = "Rocky"
+Rocky.Parent = Page2
+Rocky.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Rocky.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Rocky.BorderSizePixel = 0
+Rocky.Position = UDim2.new(0.761506259, 0, 0.113636345, 0)
+Rocky.Size = UDim2.new(0, 99, 0, 47)
+Rocky.Font = Enum.Font.ArialBold
+Rocky.Text = "Rocky2u Edited"
+Rocky.TextColor3 = Color3.fromRGB(255, 255, 255)
+Rocky.TextSize = 12.000
+Rocky.TextWrapped = true
+
+_1.Name = "1"
+_1.Parent = Main
+_1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_1.BorderColor3 = Color3.fromRGB(27, 42, 53)
+_1.BorderSizePixel = 0
+_1.Position = UDim2.new(0.0897035524, 0, 0.116932914, 0)
+_1.Size = UDim2.new(0, 28, 0, 19)
+_1.Font = Enum.Font.ArialBold
+_1.Text = "1"
+_1.TextColor3 = Color3.fromRGB(255, 255, 255)
+_1.TextSize = 14.000
+
+Page3.Name = "Page3"
+Page3.Parent = Main
+Page3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Page3.BackgroundTransparency = 1.000
+Page3.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Page3.Position = UDim2.new(0, 0, 0.110738255, 0)
+Page3.Size = UDim2.new(0, 478, 0, 264)
+Page3.Visible = false
+
+FEHaxx.Name = "FEHaxx"
+FEHaxx.Parent = Page3
+FEHaxx.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+FEHaxx.BorderColor3 = Color3.fromRGB(27, 42, 53)
+FEHaxx.BorderSizePixel = 0
+FEHaxx.Position = UDim2.new(0.031380754, 0, 0.11363636, 0)
+FEHaxx.Size = UDim2.new(0, 99, 0, 47)
+FEHaxx.Font = Enum.Font.ArialBold
+FEHaxx.Text = "FEHaxx"
+FEHaxx.TextColor3 = Color3.fromRGB(255, 255, 255)
+FEHaxx.TextSize = 14.000
+FEHaxx.TextWrapped = true
+
+VanGUI.Name = "Van GUI"
+VanGUI.Parent = Page3
+VanGUI.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+VanGUI.BorderColor3 = Color3.fromRGB(27, 42, 53)
+VanGUI.BorderSizePixel = 0
+VanGUI.Position = UDim2.new(0.031380754, 0, 0.344696999, 0)
+VanGUI.Size = UDim2.new(0, 99, 0, 47)
+VanGUI.Font = Enum.Font.ArialBold
+VanGUI.Text = "Van GUI"
+VanGUI.TextColor3 = Color3.fromRGB(255, 255, 255)
+VanGUI.TextSize = 14.000
+VanGUI.TextWrapped = true
+
+NA.Name = "N/A"
+NA.Parent = Page3
+NA.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA.BorderSizePixel = 0
+NA.Position = UDim2.new(0.031380754, 0, 0.583333313, 0)
+NA.Size = UDim2.new(0, 99, 0, 47)
+NA.Font = Enum.Font.ArialBold
+NA.Text = "N/A"
+NA.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA.TextSize = 14.000
+NA.TextWrapped = true
+
+NA_2.Name = "N/A"
+NA_2.Parent = Page3
+NA_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_2.BorderSizePixel = 0
+NA_2.Position = UDim2.new(0.274058551, 0, 0.583333313, 0)
+NA_2.Size = UDim2.new(0, 99, 0, 47)
+NA_2.Font = Enum.Font.ArialBold
+NA_2.Text = "N/A"
+NA_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_2.TextSize = 14.000
+NA_2.TextWrapped = true
+
+NA_3.Name = "N/A"
+NA_3.Parent = Page3
+NA_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_3.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_3.BorderSizePixel = 0
+NA_3.Position = UDim2.new(0.518828452, 0, 0.583333313, 0)
+NA_3.Size = UDim2.new(0, 99, 0, 47)
+NA_3.Font = Enum.Font.ArialBold
+NA_3.Text = "N/A"
+NA_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_3.TextSize = 14.000
+NA_3.TextWrapped = true
+
+NA_4.Name = "N/A"
+NA_4.Parent = Page3
+NA_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_4.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_4.BorderSizePixel = 0
+NA_4.Position = UDim2.new(0.761506259, 0, 0.583333313, 0)
+NA_4.Size = UDim2.new(0, 99, 0, 47)
+NA_4.Font = Enum.Font.ArialBold
+NA_4.Text = "N/A"
+NA_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_4.TextSize = 14.000
+NA_4.TextWrapped = true
+
+NA_5.Name = "N/A"
+NA_5.Parent = Page3
+NA_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_5.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_5.BorderSizePixel = 0
+NA_5.Position = UDim2.new(0.274058551, 0, 0.344696939, 0)
+NA_5.Size = UDim2.new(0, 99, 0, 47)
+NA_5.Font = Enum.Font.ArialBold
+NA_5.Text = "N/A"
+NA_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_5.TextSize = 14.000
+NA_5.TextWrapped = true
+
+NA_6.Name = "N/A"
+NA_6.Parent = Page3
+NA_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_6.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_6.BorderSizePixel = 0
+NA_6.Position = UDim2.new(0.518828452, 0, 0.344696939, 0)
+NA_6.Size = UDim2.new(0, 99, 0, 47)
+NA_6.Font = Enum.Font.ArialBold
+NA_6.Text = "N/A"
+NA_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_6.TextSize = 14.000
+NA_6.TextWrapped = true
+
+NA_7.Name = "N/A"
+NA_7.Parent = Page3
+NA_7.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_7.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_7.BorderSizePixel = 0
+NA_7.Position = UDim2.new(0.761506259, 0, 0.344696939, 0)
+NA_7.Size = UDim2.new(0, 99, 0, 47)
+NA_7.Font = Enum.Font.ArialBold
+NA_7.Text = "N/A"
+NA_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_7.TextSize = 14.000
+NA_7.TextWrapped = true
+
+ClockworkArena.Name = "Clockwork Arena"
+ClockworkArena.Parent = Page3
+ClockworkArena.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ClockworkArena.BorderColor3 = Color3.fromRGB(27, 42, 53)
+ClockworkArena.BorderSizePixel = 0
+ClockworkArena.Position = UDim2.new(0.274058551, 0, 0.113636345, 0)
+ClockworkArena.Size = UDim2.new(0, 99, 0, 47)
+ClockworkArena.Font = Enum.Font.ArialBold
+ClockworkArena.Text = "Clockwork Arena"
+ClockworkArena.TextColor3 = Color3.fromRGB(255, 255, 255)
+ClockworkArena.TextSize = 14.000
+ClockworkArena.TextWrapped = true
+
+WTC.Name = "WTC"
+WTC.Parent = Page3
+WTC.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+WTC.BorderColor3 = Color3.fromRGB(27, 42, 53)
+WTC.BorderSizePixel = 0
+WTC.Position = UDim2.new(0.518828452, 0, 0.113636345, 0)
+WTC.Size = UDim2.new(0, 99, 0, 47)
+WTC.Font = Enum.Font.ArialBold
+WTC.Text = "World Trade Center"
+WTC.TextColor3 = Color3.fromRGB(255, 255, 255)
+WTC.TextSize = 14.000
+WTC.TextWrapped = true
+
+T0PK3K40.Name = "T0PK3K 4.0"
+T0PK3K40.Parent = Page3
+T0PK3K40.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+T0PK3K40.BorderColor3 = Color3.fromRGB(27, 42, 53)
+T0PK3K40.BorderSizePixel = 0
+T0PK3K40.Position = UDim2.new(0.761506259, 0, 0.113636345, 0)
+T0PK3K40.Size = UDim2.new(0, 99, 0, 47)
+T0PK3K40.Font = Enum.Font.ArialBold
+T0PK3K40.Text = "T0PK3K 4.0"
+T0PK3K40.TextColor3 = Color3.fromRGB(255, 255, 255)
+T0PK3K40.TextSize = 14.000
+T0PK3K40.TextWrapped = true
+
+credit.Name = "credit"
+credit.Parent = Main
+credit.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+credit.BackgroundTransparency = 1.000
+credit.BorderColor3 = Color3.fromRGB(27, 42, 53)
+credit.Position = UDim2.new(0.191999972, 0, 0.0654558018, 0)
+credit.Size = UDim2.new(0, 294, 0, 16)
+credit.Font = Enum.Font.ArialBold
+credit.Text = "Made by LuaZ 3.0#4242"
+credit.TextColor3 = Color3.fromRGB(255, 255, 255)
+credit.TextSize = 15.000
+
+title.Name = "title"
+title.Parent = Main
+title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+title.BackgroundTransparency = 1.000
+title.BorderColor3 = Color3.fromRGB(27, 42, 53)
+title.Position = UDim2.new(0.191776171, 0, 0, 0)
+title.Size = UDim2.new(0, 294, 0, 20)
+title.Font = Enum.Font.ArialBold
+title.Text = "retrom8 FD Edition"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextSize = 20.000
+
+_2.Name = "2"
+_2.Parent = Main
+_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
+_2.BorderSizePixel = 0
+_2.Position = UDim2.new(0.148158669, 0, 0.116932914, 0)
+_2.Size = UDim2.new(0, 28, 0, 19)
+_2.Font = Enum.Font.ArialBold
+_2.Text = "2"
+_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+_2.TextSize = 14.000
+
+_3.Name = "3"
+_3.Parent = Main
+_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_3.BorderColor3 = Color3.fromRGB(27, 42, 53)
+_3.BorderSizePixel = 0
+_3.Position = UDim2.new(0.206613779, 0, 0.116932914, 0)
+_3.Size = UDim2.new(0, 28, 0, 19)
+_3.Font = Enum.Font.ArialBold
+_3.Text = "3"
+_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+_3.TextSize = 14.000
+
+T.Name = "T"
+T.Parent = Main
+T.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+T.BorderColor3 = Color3.fromRGB(27, 42, 53)
+T.BorderSizePixel = 0
+T.Position = UDim2.new(0.0312484391, 0, 0.116932914, 0)
+T.Size = UDim2.new(0, 28, 0, 19)
+T.Font = Enum.Font.ArialBold
+T.Text = "T"
+T.TextColor3 = Color3.fromRGB(255, 255, 255)
+T.TextSize = 14.000
+
+Themes.Name = "Themes"
+Themes.Parent = Main
+Themes.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Themes.BackgroundTransparency = 1.000
+Themes.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Themes.Position = UDim2.new(0, 0, 0.110738255, 0)
+Themes.Size = UDim2.new(0, 478, 0, 264)
+Themes.Visible = false
+
+Classic.Name = "Classic"
+Classic.Parent = Themes
+Classic.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Classic.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Classic.BorderSizePixel = 0
+Classic.Position = UDim2.new(0.031380754, 0, 0.11363636, 0)
+Classic.Size = UDim2.new(0, 99, 0, 47)
+Classic.Font = Enum.Font.ArialBold
+Classic.Text = "Classic"
+Classic.TextColor3 = Color3.fromRGB(255, 255, 255)
+Classic.TextSize = 14.000
+Classic.TextWrapped = true
+
+NA_8.Name = "N/A"
+NA_8.Parent = Themes
+NA_8.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_8.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_8.BorderSizePixel = 0
+NA_8.Position = UDim2.new(0.031380754, 0, 0.344696999, 0)
+NA_8.Size = UDim2.new(0, 99, 0, 47)
+NA_8.Font = Enum.Font.ArialBold
+NA_8.Text = "N/A"
+NA_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_8.TextSize = 14.000
+NA_8.TextWrapped = true
+
+NA_9.Name = "N/A"
+NA_9.Parent = Themes
+NA_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_9.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_9.BorderSizePixel = 0
+NA_9.Position = UDim2.new(0.031380754, 0, 0.583333313, 0)
+NA_9.Size = UDim2.new(0, 99, 0, 47)
+NA_9.Font = Enum.Font.ArialBold
+NA_9.Text = "N/A"
+NA_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_9.TextSize = 14.000
+NA_9.TextWrapped = true
+
+NA_10.Name = "N/A"
+NA_10.Parent = Themes
+NA_10.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_10.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_10.BorderSizePixel = 0
+NA_10.Position = UDim2.new(0.274058551, 0, 0.583333313, 0)
+NA_10.Size = UDim2.new(0, 99, 0, 47)
+NA_10.Font = Enum.Font.ArialBold
+NA_10.Text = "N/A"
+NA_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_10.TextSize = 14.000
+NA_10.TextWrapped = true
+
+NA_11.Name = "N/A"
+NA_11.Parent = Themes
+NA_11.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_11.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_11.BorderSizePixel = 0
+NA_11.Position = UDim2.new(0.518828452, 0, 0.583333313, 0)
+NA_11.Size = UDim2.new(0, 99, 0, 47)
+NA_11.Font = Enum.Font.ArialBold
+NA_11.Text = "N/A"
+NA_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_11.TextSize = 14.000
+NA_11.TextWrapped = true
+
+NA_12.Name = "N/A"
+NA_12.Parent = Themes
+NA_12.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_12.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_12.BorderSizePixel = 0
+NA_12.Position = UDim2.new(0.761506259, 0, 0.583333313, 0)
+NA_12.Size = UDim2.new(0, 99, 0, 47)
+NA_12.Font = Enum.Font.ArialBold
+NA_12.Text = "N/A"
+NA_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_12.TextSize = 14.000
+NA_12.TextWrapped = true
+
+NA_13.Name = "N/A"
+NA_13.Parent = Themes
+NA_13.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_13.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_13.BorderSizePixel = 0
+NA_13.Position = UDim2.new(0.274058551, 0, 0.344696939, 0)
+NA_13.Size = UDim2.new(0, 99, 0, 47)
+NA_13.Font = Enum.Font.ArialBold
+NA_13.Text = "N/A"
+NA_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_13.TextSize = 14.000
+NA_13.TextWrapped = true
+
+NA_14.Name = "N/A"
+NA_14.Parent = Themes
+NA_14.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_14.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_14.BorderSizePixel = 0
+NA_14.Position = UDim2.new(0.518828452, 0, 0.344696939, 0)
+NA_14.Size = UDim2.new(0, 99, 0, 47)
+NA_14.Font = Enum.Font.ArialBold
+NA_14.Text = "N/A"
+NA_14.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_14.TextSize = 14.000
+NA_14.TextWrapped = true
+
+NA_15.Name = "N/A"
+NA_15.Parent = Themes
+NA_15.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_15.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_15.BorderSizePixel = 0
+NA_15.Position = UDim2.new(0.761506259, 0, 0.344696939, 0)
+NA_15.Size = UDim2.new(0, 99, 0, 47)
+NA_15.Font = Enum.Font.ArialBold
+NA_15.Text = "N/A"
+NA_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_15.TextSize = 14.000
+NA_15.TextWrapped = true
+
+UTG.Name = "UTG"
+UTG.Parent = Themes
+UTG.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+UTG.BorderColor3 = Color3.fromRGB(27, 42, 53)
+UTG.BorderSizePixel = 0
+UTG.Position = UDim2.new(0.274058551, 0, 0.113636345, 0)
+UTG.Size = UDim2.new(0, 99, 0, 47)
+UTG.Font = Enum.Font.ArialBold
+UTG.Text = "UTG"
+UTG.TextColor3 = Color3.fromRGB(255, 255, 255)
+UTG.TextSize = 14.000
+UTG.TextWrapped = true
+
+Dark.Name = "Dark"
+Dark.Parent = Themes
+Dark.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Dark.BorderColor3 = Color3.fromRGB(27, 42, 53)
+Dark.BorderSizePixel = 0
+Dark.Position = UDim2.new(0.518828452, 0, 0.113636345, 0)
+Dark.Size = UDim2.new(0, 99, 0, 47)
+Dark.Font = Enum.Font.ArialBold
+Dark.Text = "Dark"
+Dark.TextColor3 = Color3.fromRGB(255, 255, 255)
+Dark.TextSize = 14.000
+Dark.TextWrapped = true
+
+NA_16.Name = "N/A"
+NA_16.Parent = Themes
+NA_16.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NA_16.BorderColor3 = Color3.fromRGB(27, 42, 53)
+NA_16.BorderSizePixel = 0
+NA_16.Position = UDim2.new(0.761506259, 0, 0.113636345, 0)
+NA_16.Size = UDim2.new(0, 99, 0, 47)
+NA_16.Font = Enum.Font.ArialBold
+NA_16.Text = "N/A"
+NA_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+NA_16.TextSize = 14.000
+NA_16.TextWrapped = true
+
+motd.Name = "motd"
+motd.Parent = Main
+motd.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+motd.BackgroundTransparency = 1.000
+motd.BorderColor3 = Color3.fromRGB(27, 42, 53)
+motd.Position = UDim2.new(-6.68328576e-05, 0, 0.944650412, 0)
+motd.Size = UDim2.new(0, 197, 0, 16)
+motd.Font = Enum.Font.ArialBold
+motd.Text = "\"retrom8 is cringe\" - AyRay"
+motd.TextColor3 = Color3.fromRGB(255, 255, 255)
+motd.TextSize = 15.000
+
+-- Scripts:
+
+local function WZDUT_fake_script() -- Elysian.LocalScript 
+	local script = Instance.new('LocalScript', Elysian)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Elysian.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(WZDUT_fake_script)()
+local function TFFRGK_fake_script() -- FurryRapist.LocalScript 
+	local script = Instance.new('LocalScript', FurryRapist)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Furry%20Rapist%20v2.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(TFFRGK_fake_script)()
+local function OJTT_fake_script() -- TrollGUI.LocalScript 
+	local script = Instance.new('LocalScript', TrollGUI)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Troll%20GUI.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(OJTT_fake_script)()
+local function XFKQVG_fake_script() -- EvilPlaytime.LocalScript 
+	local script = Instance.new('LocalScript', EvilPlaytime)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Evil%20Playtime.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(XFKQVG_fake_script)()
+local function FRFY_fake_script() -- LeashGUI.LocalScript 
+	local script = Instance.new('LocalScript', LeashGUI)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/%5Bgui%5D%20Leash.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(FRFY_fake_script)()
+local function AABB_fake_script() -- DickGun.LocalScript 
+	local script = Instance.new('LocalScript', DickGun)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Dick%20Gun.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(AABB_fake_script)()
+local function UGFBOZ_fake_script() -- AlbertsStuff.LocalScript 
+	local script = Instance.new('LocalScript', AlbertsStuff)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/AlbertsStuff.lua"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(UGFBOZ_fake_script)()
+local function FHDFPD_fake_script() -- Earrape.LocalScript 
+	local script = Instance.new('LocalScript', Earrape)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Earrape%20GUI.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(FHDFPD_fake_script)()
+local function FGREH_fake_script() -- FEAdmin.LocalScript 
+	local script = Instance.new('LocalScript', FEAdmin)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/%5Bgui%5D%20%5Bfe%5D%20illremember.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(FGREH_fake_script)()
+local function LIYPAK_fake_script() -- GasCanister.LocalScript 
+	local script = Instance.new('LocalScript', GasCanister)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Gas%20Canister.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(LIYPAK_fake_script)()
+local function SJXP_fake_script() -- FNAFMap.LocalScript 
+	local script = Instance.new('LocalScript', FNAFMap)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/FNAF.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(SJXP_fake_script)()
+local function YFTV_fake_script() -- RainingChickens.LocalScript 
+	local script = Instance.new('LocalScript', RainingChickens)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/ITZ%20RAINING%20CHICKENS.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(YFTV_fake_script)()
+local function CPMJZQU_fake_script() -- TextButton.LocalScript 
+	local script = Instance.new('LocalScript', TextButton)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent:Destroy()
+	end)
+	
+end
+coroutine.wrap(CPMJZQU_fake_script)()
+local function NJLGV_fake_script() -- Pee.LocalScript 
+	local script = Instance.new('LocalScript', Pee)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Pee%20Script.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(NJLGV_fake_script)()
+local function TGXE_fake_script() -- DexExplorer.LocalScript 
+	local script = Instance.new('LocalScript', DexExplorer)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Dex%20Explorer.lua"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(TGXE_fake_script)()
+local function SZMBZUH_fake_script() -- GKV3.LocalScript 
+	local script = Instance.new('LocalScript', GKV3)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Grab%20Knife%20V3.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(SZMBZUH_fake_script)()
+local function EOFTN_fake_script() -- BirdWings.LocalScript 
+	local script = Instance.new('LocalScript', BirdWings)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/bird_wings.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(EOFTN_fake_script)()
+local function TGBUL_fake_script() -- Illuminati.LocalScript 
+	local script = Instance.new('LocalScript', Illuminati)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Illuminati.lua"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(TGBUL_fake_script)()
+local function FDZZAHX_fake_script() -- MatteoRetroCar.LocalScript 
+	local script = Instance.new('LocalScript', MatteoRetroCar)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Matteo%20Retro%20Car.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(FDZZAHX_fake_script)()
+local function YKZIVN_fake_script() -- Keemstar.LocalScript 
+	local script = Instance.new('LocalScript', Keemstar)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Keemstar.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(YKZIVN_fake_script)()
+local function SWNVAQF_fake_script() -- FP.LocalScript 
+	local script = Instance.new('LocalScript', FP)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/FilteringPartially.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(SWNVAQF_fake_script)()
+local function RKBB_fake_script() -- Pizza.LocalScript 
+	local script = Instance.new('LocalScript', Pizza)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Pizza%20Place.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(RKBB_fake_script)()
+local function CRPF_fake_script() -- Jungle.LocalScript 
+	local script = Instance.new('LocalScript', Jungle)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Jungle.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(CRPF_fake_script)()
+local function BTJHM_fake_script() -- PonisTool.LocalScript 
+	local script = Instance.new('LocalScript', PonisTool)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Ponis%20Tool.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(BTJHM_fake_script)()
+local function KXVXU_fake_script() -- Rocky.LocalScript 
+	local script = Instance.new('LocalScript', Rocky)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/maindata/Rocky2u%20Edited.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(KXVXU_fake_script)()
+local function OYYSK_fake_script() -- _1.LocalScript 
+	local script = Instance.new('LocalScript', _1)
+
+	--Script made by sermi, edited by me, karaoke60000! (I added the right click function)
+	--To open GUI, left click. To close, right click!
+	function leftClick(mouse)
+		 script.Parent.Parent.Page1.Visible = true --"NAMEHERE is where you put the name of the GUI"
+	end
+	script.Parent.MouseButton1Click:connect(leftClick)
+	
+	function rightClick(mouse)
+		script.Parent.Parent.Page1.Visible = false
+	end
+	script.Parent.MouseButton2Click:connect(rightClick)
+end
+coroutine.wrap(OYYSK_fake_script)()
+local function WUQOK_fake_script() -- _1.LocalScript 
+	local script = Instance.new('LocalScript', _1)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.Page2.Visible = false
+		script.Parent.Parent.Page3.Visible = false
+		
+	end)
+	
+end
+coroutine.wrap(WUQOK_fake_script)()
+local function WBSTI_fake_script() -- FEHaxx.LocalScript 
+	local script = Instance.new('LocalScript', FEHaxx)
+
+	function click()
+		-- official loadstring
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/ayyyyyy-lmao/FEHaxx/refs/heads/main/CDN/Release/FEHaxx"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(WBSTI_fake_script)()
+local function AEXBPZ_fake_script() -- VanGUI.LocalScript 
+	local script = Instance.new('LocalScript', VanGUI)
+
+	function click()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD/refs/heads/main/CDN/Scripts/UVG%20Fix.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(AEXBPZ_fake_script)()
+local function LTRNM_fake_script() -- ClockworkArena.LocalScript 
+	local script = Instance.new('LocalScript', ClockworkArena)
+
+	function click()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD/refs/heads/main/CDN/Scripts/Clockwork%20Arena.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(LTRNM_fake_script)()
+local function OHFG_fake_script() -- WTC.LocalScript 
+	local script = Instance.new('LocalScript', WTC)
+
+	function click()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD/refs/heads/main/CDN/Scripts/world-trade-center.lua"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(OHFG_fake_script)()
+local function HXWLZP_fake_script() -- T0PK3K40.LocalScript 
+	local script = Instance.new('LocalScript', T0PK3K40)
+
+	function click()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD/refs/heads/main/CDN/Scripts/T0PK3K%204.0.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(HXWLZP_fake_script)()
+local function VIRZLU_fake_script() -- Main.drag 
+	local script = Instance.new('LocalScript', Main)
+
+	local UIS = game:GetService("UserInputService")
+	
+	function dragify(Frame)
+		local dragToggle = false
+		local dragInput = nil
+		local dragStart = nil
+		local startPos = nil
+	
+		function updateInput(input)
+			local delta = input.Position - dragStart
+			Frame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		end
+	
+		Frame.InputBegan:Connect(function(input)
+			if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and UIS:GetFocusedTextBox() == nil then
+				dragToggle = true
+				dragStart = input.Position
+				startPos = Frame.Position
+				input.Changed:Connect(function()
+					if input.UserInputState == Enum.UserInputState.End then
+						dragToggle = false
+					end
+				end)
+			end
+		end)
+	
+		Frame.InputChanged:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+				dragInput = input
+			end
+		end)
+	
+		UIS.InputChanged:Connect(function(input)
+			if input == dragInput and dragToggle then
+				updateInput(input)
+			end
+		end)
+	end
+	
+	dragify(script.Parent)
+end
+coroutine.wrap(VIRZLU_fake_script)()
+local function VLGUOC_fake_script() -- _2.LocalScript 
+	local script = Instance.new('LocalScript', _2)
+
+	--Script made by sermi, edited by me, karaoke60000! (I added the right click function)
+	--To open GUI, left click. To close, right click!
+	function leftClick(mouse)
+		 script.Parent.Parent.Page2.Visible = true --"NAMEHERE is where you put the name of the GUI"
+	end
+	script.Parent.MouseButton1Click:connect(leftClick)
+	
+	function rightClick(mouse)
+		script.Parent.Parent.Page2.Visible = false
+	end
+	script.Parent.MouseButton2Click:connect(rightClick)
+end
+coroutine.wrap(VLGUOC_fake_script)()
+local function XGGKONC_fake_script() -- _2.LocalScript 
+	local script = Instance.new('LocalScript', _2)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.Page1.Visible = false
+		script.Parent.Parent.Page3.Visible = false
+		
+	end)
+	
+end
+coroutine.wrap(XGGKONC_fake_script)()
+local function HVXAA_fake_script() -- _3.LocalScript 
+	local script = Instance.new('LocalScript', _3)
+
+	--Script made by sermi, edited by me, karaoke60000! (I added the right click function)
+	--To open GUI, left click. To close, right click!
+	function leftClick(mouse)
+		 script.Parent.Parent.Page3.Visible = true --"NAMEHERE is where you put the name of the GUI"
+	end
+	script.Parent.MouseButton1Click:connect(leftClick)
+	
+	function rightClick(mouse)
+		script.Parent.Parent.Page3.Visible = false
+	end
+	script.Parent.MouseButton2Click:connect(rightClick)
+end
+coroutine.wrap(HVXAA_fake_script)()
+local function XHOFJOU_fake_script() -- _3.LocalScript 
+	local script = Instance.new('LocalScript', _3)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.Page1.Visible = false
+		script.Parent.Parent.Page2.Visible = false
+	end)
+	
+end
+coroutine.wrap(XHOFJOU_fake_script)()
+local function KWHKDO_fake_script() -- T.LocalScript 
+	local script = Instance.new('LocalScript', T)
+
+	--Script made by sermi, edited by me, karaoke60000! (I added the right click function)
+	--To open GUI, left click. To close, right click!
+	function leftClick(mouse)
+		 script.Parent.Parent.Page1.Visible = true --"NAMEHERE is where you put the name of the GUI"
+	end
+	script.Parent.MouseButton1Click:connect(leftClick)
+	
+	function rightClick(mouse)
+		script.Parent.Parent.Page1.Visible = false
+	end
+	script.Parent.MouseButton2Click:connect(rightClick)
+end
+coroutine.wrap(KWHKDO_fake_script)()
+local function YJWXLPF_fake_script() -- T.LocalScript 
+	local script = Instance.new('LocalScript', T)
+
+	script.Parent.MouseButton1Down:connect(function()
+		script.Parent.Parent.Page2.Visible = false
+		script.Parent.Parent.Page3.Visible = false
+		
+	end)
+	
+end
+coroutine.wrap(YJWXLPF_fake_script)()
+local function ZNPU_fake_script() -- Classic.LocalScript 
+	local script = Instance.new('LocalScript', Classic)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/builds/garfield-v1/themes/Classic.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(ZNPU_fake_script)()
+local function AXJAHD_fake_script() -- UTG.LocalScript 
+	local script = Instance.new('LocalScript', UTG)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/builds/garfield-v1/themes/Ultimate%20Trolling%20GUI.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(AXJAHD_fake_script)()
+local function VVNDO_fake_script() -- Dark.LocalScript 
+	local script = Instance.new('LocalScript', Dark)
+
+	function click()
+		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/builds/garfield-v1/themes/Dark.txt"))()
+	end
+	
+	script.Parent.MouseButton1Down:connect(click)
+end
+coroutine.wrap(VVNDO_fake_script)()
