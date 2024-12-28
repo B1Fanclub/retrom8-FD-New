@@ -1289,7 +1289,7 @@ local function ZNPU_fake_script() -- Classic.LocalScript
 	local script = Instance.new('LocalScript', Classic)
 
 	function click()
-		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/builds/garfield-v1/themes/Classic.txt"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD-New/refs/heads/main/themes/Classic.txt"))()
 	end
 	
 	script.Parent.MouseButton1Down:connect(click)
@@ -1299,7 +1299,7 @@ local function AXJAHD_fake_script() -- UTG.LocalScript
 	local script = Instance.new('LocalScript', UTG)
 
 	function click()
-		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/builds/garfield-v1/themes/Ultimate%20Trolling%20GUI.txt"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD-New/refs/heads/main/themes/Ultimate%20Trolling%20GUI.txt"))()
 	end
 	
 	script.Parent.MouseButton1Down:connect(click)
@@ -1309,7 +1309,7 @@ local function VVNDO_fake_script() -- Dark.LocalScript
 	local script = Instance.new('LocalScript', Dark)
 
 	function click()
-		loadstring(game:HttpGet("https://latte.luagunsx.xyz/archive/builds/garfield-v1/themes/Dark.txt"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/B1Fanclub/retrom8-FD-New/refs/heads/main/themes/Dark.txt"))()
 	end
 	
 	script.Parent.MouseButton1Down:connect(click)
