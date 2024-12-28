@@ -1,0 +1,3 @@
+script.Parent.Parent.Parent.BackgroundColor3 = Color3.fromRGB(61, 182, 0)
+script.Parent.Parent.Parent.title.Text = "Ultimate Trolling GUI"
+script.Parent.Parent.Parent.credit.Text = "Made by Pristh & Drahazar"

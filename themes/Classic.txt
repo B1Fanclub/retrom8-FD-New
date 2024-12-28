@@ -1,0 +1,2 @@
+script.Parent.Parent.Parent.BackgroundColor3 = Color3.fromRGB(170, 0, 255)
+script.Parent.Parent.Parent.title.Text = "Starlight V1.2"
